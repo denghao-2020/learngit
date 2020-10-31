@@ -1,6 +1,3 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-learn Git!
-Go!GO!
-1-9
-backfill
+This is a test file.
