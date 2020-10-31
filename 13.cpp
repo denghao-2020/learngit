@@ -7,6 +7,7 @@ int main()
 fin.open("data.txt",ios::in);
 int sum=0,str;
 while(fin>>str)
+fin>>str;
 sum+=str;
 fin.close();
 fstream fout("result.txt",ios::out);
