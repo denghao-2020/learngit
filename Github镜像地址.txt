@@ -1,0 +1,11 @@
+Github镜像地址：
+
+https://hub.fastgit.org/
+
+https://github.com.cnpmjs.org/
+
+GitHub raw 加速
+
+http://raw.githubusercontent.com
+
+http://raw.staticdn.net
